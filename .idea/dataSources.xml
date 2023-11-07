@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="aiosqlite_user" uuid="3a379f4b-6195-426b-ac71-3a9d8a2197f9">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:E:\yuanxiao\fastapi_tutorial\chapter08\sqlalchemy_async_sqlite3\aiosqlite_user.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="aiosqlite_user [2]" uuid="123ab6d6-5b9c-4a7f-81d6-e0e9de175c7a">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:E:\yuanxiao\fastapi_tutorial\chapter08\sqlmodel_async_sqlite3\aiosqlite_user.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
